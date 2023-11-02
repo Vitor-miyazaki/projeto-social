@@ -2,7 +2,8 @@
 
 body{
     background: white URL('imagens/fundo-madeira.jpg') no-repeat fixed center center /cover;
-    position: relative;
+    
+    
     
 }
 
@@ -16,12 +17,11 @@ body{
     position: absolute;
     top: 50%;
     left: 40%;
-    transform: translate(-50%, 10%);
+    transform: translate(-50%, -50%);
     
 }
 
 .celular > iframe{
-    background-color: rgb(0, 255, 255);
     margin: 0px;
     border: 2px solid rgb(240, 240, 240);
     width: 246px;
@@ -40,7 +40,7 @@ body{
     position: absolute;
     top: 50%;
     left: 90%;
-    transform: translate(-50%, 10%);
+    transform: translate(-50%, -60%);
 }
 
 .botoes > a > img{
