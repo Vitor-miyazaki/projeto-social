@@ -27,10 +27,11 @@ main{
 
 .celular > iframe{
     width: 235px;
-    height: 420px;    
+    height: 416px;    
     position: absolute;
-    left: 20px;
+    left: 19px;
     top: 70px;
+    border: 1px solid rgb(236, 234, 234);
 }
 
 .botoes{
